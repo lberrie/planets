@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Cfgzfzfgold and dry, but everything is my favourite colour!
+=======
+This line was modified by mdaphne!
+>>>>>>> ad7a74a91b2353c4cb03a06ce58512eb53b80fa2
 The two moons may be a problem for Wolfman!
 But the Mummy will appreacite the lack of humidity.
 Online edits to mars should also be considered.
